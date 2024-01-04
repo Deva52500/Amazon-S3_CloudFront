@@ -1,4 +1,4 @@
 # CSS_Demo
-Here is the link for CSS Demo:
+Please find the link for Static Backery website:
 
 https://deva52500.github.io/CSS_Demo/
