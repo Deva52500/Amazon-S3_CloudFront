@@ -1,4 +1,4 @@
-# CSS_Demo
-Please find the link for Static Backery website:
+# Amazon-S3_CloudFront
+Please find the link for the Static website:
 
-https://deva52500.github.io/CSS_Demo/
+https://dxihubh40h4o.cloudfront.net/
